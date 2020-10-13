@@ -1,5 +1,5 @@
 //Body Mass Index (BMI) Program
-//This program willl calculate BMI based on user's inputted height and weight.
+//This program will calculate BMI based on user's inputted height and weight.
 
 #include <StdAfx.h>
 #include <iostream>
